@@ -2,10 +2,10 @@
     "users": [
         {
            
-            "Firstname":"hello",
-            "Lastname":"Hii",
-            "Email":"hk@gmail.com",
-            "Password":"@12345",
+            "firstname":"hello",
+            "lastname":"Hii",
+            "email":"hk@gmail.com",
+            "password":"@12345",
             "id":1
         }
     ],
