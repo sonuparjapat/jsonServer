@@ -2,12 +2,10 @@
     "users": [
         {
             "id":1,
-            "title":"hello",
-            "isCompleted":false
-        }, {
-            "id":2,
-            "title":"hello2",
-            "isCompleted":false
+            "Firstname":"hello",
+            "Lastname":"Hii",
+            "Email":"hk@gmail.com",
+            "Password":"@12345"
         }
     ],
     "accounts": [
