@@ -5,19 +5,24 @@
             "Firstname":"hello",
             "Lastname":"Hii",
             "Email":"hk@gmail.com",
-            "Password":"@12345"
+            "Password":"@12345",
+            "id":1
         }
     ],
     "accounts": [
             {
                 
                 "name":"xyz",
-                "roll":909
+                "roll":909,
+                     "id":1
+
             },
             {
               
                 "name":"xyz",
-                "roll":909
+                "roll":909,
+                     "id":2
+
             }
     ],
     "transactions": [
@@ -33,7 +38,9 @@
             "edition": "2021",
             "publisher": "Bloomsbury",
             "cost": 1000,
-            "borrowed": false
+            "borrowed": false,
+                     "id":1
+            
             },{
                 
                 "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -43,7 +50,8 @@
                 "edition": "2021",
                 "publisher": "Bloomsbury",
                 "cost": 1499,
-                "borrowed": false
+                "borrowed": false,
+                    "id":2
                 },{
                   
                     "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -53,7 +61,8 @@
                     "edition": "2021",
                     "publisher": "Bloomsbury",
                     "cost": 1299,
-                    "borrowed": false
+                    "borrowed": false,
+                        "id":3
                     },{
                    
                         "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -63,7 +72,8 @@
                         "edition": "2021",
                         "publisher": "Bloomsbury",
                         "cost": 1999,
-                        "borrowed": false
+                        "borrowed": false,
+                            "id":4
                         }
 ]
     
