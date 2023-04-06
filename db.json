@@ -647,5 +647,13 @@
     "lastname":"singh",
     "password":123
   }
-]
+],
+"purplelogindata":[{
+    
+    "id":"mohan@gmail.com",
+    "username":"mohan",
+    "lastname":"singh",
+    "password":123
+  
+}]
 }
